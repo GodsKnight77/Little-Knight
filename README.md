@@ -9,4 +9,6 @@ It does require a password in order to unzip.
 
 Alpha 1.0.0 has very little functionality, so don't expect to be intertained by it for very long.
 
+There is currently no exit button, so you have two choices, you can press alt+tab, or you could use ctrl+alt+del.
+
 \- God's Knight
