@@ -7,4 +7,6 @@
 This is a little game I've been working on, and I decided I would give people the opportunity to play it as I work on it.
 It does require a password in order to unzip.
 
+Alpha 1.0.0 has very little functionality, so don't expect to be intertained by it for very long.
+
 \- God's Knight
