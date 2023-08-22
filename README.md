@@ -11,5 +11,4 @@ Alpha 1.0.0 has very little functionality, so don't expect to be intertained by 
 
 There is currently no exit button, so you have two choices, you can press alt+tab, or you could use ctrl+alt+del.
 
-Also if you like to give money to people, you can help me buy some gas for my car here [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X7OHOQ0).
 \- God's Knight
