@@ -7,3 +7,5 @@ This is a little game I've been working on, and I decided I would give people th
 It does require a password in order to unzip.
 
 \- God's Knight
+
+!(Little Knight Readme Image.png)
