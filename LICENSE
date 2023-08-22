@@ -1,21 +1,23 @@
-MIT License
+Copyright (c) 2023 God's Knight
 
-Copyright (c) 2023 GodsKnight77
+Software End User License Agreement
+This Software End User License Agreement ("EULA") is a legal agreement between you (referred to as the "Licensee" or "you") and God's Knight (referred to as the "Licensor" or "I") for the use of the Software called Little Knight (referred to as the "Software").
+Please read this EULA carefully before downloading, installing, copying, or using the Software. By downloading, installing, copying, or using the Software, you acknowledge that you have read, understood, and agreed to be bound by the terms and conditions of this EULA.
+1. License Grant
+Subject to the terms and conditions of this EULA, Licensor grants Licensee a non-exclusive, non-transferable license to use the Software for personal entertainment and testing purposes only, in accordance with the terms specified herein.
+2. Restrictions
+Licensee shall not:
+a) Modify, reverse engineer, decompile, or disassemble the Software. b) Copy, distribute, or transmit the Software to any third party. c) Use the Software for any illegal or unauthorized purpose. d) Remove or modify any copyright or proprietary notices included in the Software.
+3. Intellectual Property
+Licensee acknowledges that all intellectual property rights, including copyrights and trademarks, related to the Software are owned by Licensor. Licensee agrees not to infringe upon or challenge these rights.
+4. Warranty and Liability
+a) The Software is provided "as is," without any warranty or guarantee of any kind, expressed or implied. b) Licensor shall not be liable for any direct, indirect, incidental, or consequential damages arising out of the use or inability to use the Software.
+5. Termination
+This EULA is effective until terminated. Licensor may terminate this EULA immediately if Licensee breaches any of the terms herein. Upon termination, Licensee must cease all use of the Software and destroy all copies in its possession.
+6. Governing Law
+This EULA shall be governed by and construed in accordance with the laws of [Jurisdiction]. Any disputes arising out of or in connection with this EULA shall be subject to the exclusive jurisdiction of the courts of [Jurisdiction].
+7. Entire Agreement
+This EULA constitutes the entire agreement between Licensee and Licensor regarding the use of the Software, superseding any prior agreements or understandings, whether written or oral.
+By downloading, the Software, you acknowledge that you have read, understood, and agreed to be bound by the terms and conditions of this EULA.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
