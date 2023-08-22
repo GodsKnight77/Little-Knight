@@ -8,4 +8,4 @@ It does require a password in order to unzip.
 
 \- God's Knight
 
-![Image](Little Knight Readme Image.png)
+![Image](images/Little Knight Readme Image.png)
