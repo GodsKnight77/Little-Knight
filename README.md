@@ -9,4 +9,3 @@ It does require a password in order to unzip.
 \- God's Knight
 
 ![Image](Images/Little%20Knight%20Readme%20Image.png)
-)
