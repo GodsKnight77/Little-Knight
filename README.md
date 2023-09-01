@@ -4,7 +4,7 @@
 
 ![Image](Images/Little%20Knight%20Readme%20Image.png)
 
-This is a little game I've been working on, and I decided I would give people the opportunity to play it as I work on it. As of now it's going to be an atmospheric action-puzzle, survival horror game.
+This is a little game I've been working on, and I decided I would give people the opportunity to play it as I work on it. As of now it's going to be an atmospheric action survival, puzzle horror game.
 
 v1.0.1-alpha and v1.0.13-alpha are out now, and the combat controls are much better. They were so janky in v1.0.0-alpha. I did remove thrusting and blocking temporarily however, until I can make them feel smooth and fun.
 
