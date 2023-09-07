@@ -13,6 +13,6 @@ Tap on it and then find the version you want to use, tap on that and then scroll
 
 A menu with an exit button was added to v1.0.13-alpha, but if you happen to use an older version you have two choices, you can press alt+tab, or you could use ctrl+alt+del.
 
-![Image](Images/Test%20Trees.png)
+![Image](Images/Test%20Trees.PNG)
 
 \- God's Knight
