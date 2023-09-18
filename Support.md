@@ -2,4 +2,6 @@ If you like giving money to people, you can help buy gas for my car here [![ko-f
 
 The drive to college is about 50 minutes, so I do appreciate that.
 
+I would appreciate if you show my game to people.
+
 God peace.
